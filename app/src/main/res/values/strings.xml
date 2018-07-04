@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Numero</string>
+    <string name="reg_no">Registration Number(ex.**$$*$$$$/**$$**$$$$)</string>
+    <string name="calc">Check</string>
+    <string name="inviteView">Wanna get your lucky Reg No?! Check it out>></string>
+    <string name="checkRange">Select Range</string>
+    <string name="from">From Range</string>
+    <string name="to">To Range</string>
+    <string name="luckyNumbers">Enter Lucky number</string>
+</resources>
